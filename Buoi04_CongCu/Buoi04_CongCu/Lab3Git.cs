@@ -11,5 +11,8 @@ namespace Buoi04_CongCu
         public int StudentId { get; set; }
         public string StudentName { get; set; }
         public int Age { get; set; }
+        public int StudentIdnew { get; set; }
+        public string StudentNamenew { get; set; }
+        public int Agenew { get; set; }
     }
 }
